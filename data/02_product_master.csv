@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice
+P001,Coca Cola 250ml,Beverages,Carbonated Soft Drinks,0.35
+P002,Pepsi 250ml,Beverages,Carbonated Soft Drinks,0.35
+P003,Mountain Dew 250ml,Beverages,Carbonated Soft Drinks,0.35
+P004,Coca Cola 1L,Beverages,Carbonated Soft Drinks,0.75
+P005,Mountain Dew 1L,Beverages,Carbonated Soft Drinks,0.75
+P006,Bottled Water 1.5L,Beverages,Water,0.20
+P007,Tea 250g,Beverages,Hot Beverages,2.00
+P008,Sunflower Oil 1L,Cooking Oil,Vegetable Oil,2.75
+P009,Cooking Oil 2L,Cooking Oil,Vegetable Oil,4.50
+P010,Olive Oil 1L,Cooking Oil,Olive Oil,5.00
+P011,Rice 5kg,Grocery,Grains,4.50
+P012,Rice 10kg,Grocery,Grains,8.00
+P013,Sugar 1kg,Grocery,Sugar,0.70
+P014,Sugar 2kg,Grocery,Sugar,1.20
+P015,Salt 1kg,Grocery,Condiments,0.40
+P016,Flour 1kg,Grocery,Flour,0.60
+P017,Tomato Paste 140g,Canned Food,Canned Vegetables,0.45
+P018,Detergent 1kg,Cleaning,Laundry,1.80
+P019,Detergent 500g,Cleaning,Laundry,1.00
+P020,Detergent 2kg,Cleaning,Laundry,3.20
+P021,Shampoo 200ml,Personal Care,Hair Care,2.50
+P022,Shampoo 400ml,Personal Care,Hair Care,4.00
+P023,Soap Bar,Personal Care,Bath Soap,0.30

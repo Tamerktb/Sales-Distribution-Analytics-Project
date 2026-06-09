@@ -1,0 +1,12 @@
+# Excel temp files
+~$*
+*.xlk
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.suo
+*.user

@@ -1,0 +1,15 @@
+CustomerID,CustomerName,City,Region,CustomerType,FirstOrderDate
+C001,Abu Ahmad Supermarket,Amman,Amman,Supermarket,2024-03-15
+C002,Al Salam Grocery,Irbid,Irbid,Grocery,2024-05-20
+C003,Mini Mart Amman,Amman,Amman,Minimarket,2024-06-01
+C004,Al Baraka Store,Al Qastal,Amman,Grocery,2025-01-10
+C005,Al Amana Store,Madaba,Amman,Grocery,2024-09-15
+C006,Dana Supermarket,Amman,Amman,Supermarket,2024-04-01
+C007,Hassan Minimarket,Amman,Amman,Minimarket,2024-11-20
+C008,Ramallah Store,Al Qastal,Amman,Grocery,2025-02-01
+C009,Jordan Mart,Zarqa,Zarqa,Supermarket,2024-08-10
+C010,Amman Superstore,Amman,Amman,Hypermarket,2024-01-15
+C011,Queen Rania Center,Amman,Amman,Shopping Center,2025-03-01
+C012,Al Hashmi Store,Amman,Amman,Grocery,2025-04-10
+C013,West Amman Grocery,Amman,Amman,Grocery,2025-05-15
+C014,North Market,Irbid,Irbid,Grocery,2025-02-20
